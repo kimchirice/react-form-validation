@@ -1,4 +1,4 @@
 # React form validation
 
-This project was create to help react dev implement web form validation without worry about adding external library to your app.
+This project was created to help react developers implementing web form validations with React Hooks, with no external libraries
 
